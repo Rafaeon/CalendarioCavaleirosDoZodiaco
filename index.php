@@ -4,5 +4,6 @@
     <label for="birthdate">Data de Aniversário:</label>
     <input type="date" id="birthdate" name="birthdate" required>
     <button type="submit">Descobrir Signo</button>
+    
 </form>
 <?php include 'footer.php'; ?>
