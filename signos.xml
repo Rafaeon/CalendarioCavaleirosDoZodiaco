@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<signos>
+  <signo>
+    <dataInicio>21/03</dataInicio>
+    <dataFim>20/04</dataFim>
+    <signoNome>Áries</signoNome>
+    <descricao>A injustiça nunca se torna justiça.</descricao>
+    <imagem>aries.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/04</dataInicio>
+    <dataFim>20/05</dataFim>
+    <signoNome>Touro</signoNome>
+    <descricao>Aparentemente não perceberam o quanto eu sou forte.</descricao>
+    <imagem>touro.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/05</dataInicio>
+    <dataFim>20/06</dataFim>
+    <signoNome>Gêmeos</signoNome>
+    <descricao>A verdadeira força não está apenas no corpo, mas também na mente e no espírito.</descricao>
+    <imagem>Gemeos.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/06</dataInicio>
+    <dataFim>22/07</dataFim>
+    <signoNome>Câncer</signoNome>
+    <descricao>Qualquer um pode fazer a vida brilhar. Qualquer um mesmo.</descricao>
+    <imagem>cancer.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/07</dataInicio>
+    <dataFim>22/08</dataFim>
+    <signoNome>Leão</signoNome>
+    <descricao>Eu lutarei até o fim para proteger Atena e a paz na Terra</descricao>
+    <imagem>leao.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/08</dataInicio>
+    <dataFim>22/09</dataFim>
+    <signoNome>Virgem</signoNome>
+    <descricao>A paz da humanidade está em perigo. E tudo dependerá de nós.</descricao>
+    <imagem>virgem.jpeg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/09</dataInicio>
+    <dataFim>22/10</dataFim>
+    <signoNome>Libra</signoNome>
+    <descricao>Está enganado… não é a sua força que se iguala à sabedoria… é a nossa sabedoria que se iguala à força!</descricao>
+    <imagem>libra.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>23/10</dataInicio>
+    <dataFim>21/11</dataFim>
+    <signoNome>Escorpião</signoNome>
+    <descricao>Eu sou Milo de Escorpião, e você enfrentará a minha justiça.</descricao>
+    <imagem>escorpiao.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/11</dataInicio>
+    <dataFim>21/12</dataFim>
+    <signoNome>Sagitário</signoNome>
+    <descricao>Mesmo que eu morra, a justiça nunca morrerá!</descricao>
+    <imagem>sagitario.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>21/01</dataInicio>
+    <dataFim>18/02</dataFim>
+    <signoNome>Aquário</signoNome>
+    <descricao>O céu, o mar e as estrelas. Tudo isso é insignificante perto da minha força.</descricao>
+    <imagem>aquario.jpeg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>19/02</dataInicio>
+    <dataFim>20/03</dataFim>
+    <signoNome>Peixes</signoNome>
+    <descricao>A paz da humanidade está em perigo. E tudo dependerá de nós.</descricao>
+    <imagem>peixes.jpg</imagem>
+  </signo>
+  <signo>
+    <dataInicio>22/12</dataInicio>
+    <dataFim>20/01</dataFim>
+    <signoNome>Capricórnio</signoNome>
+    <descricao>A justiça é a minha espada e a minha espada é a justiça.</descricao>
+    <imagem>capricornio.jpeg</imagem>
+  </signo>
+</signos>
